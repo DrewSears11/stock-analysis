@@ -20,9 +20,9 @@ We used two different codes to measure the same results.  You can see the result
 
 # 3.)Summary
 
-  a.)Advantages and disadvantages of refactoring code
+  a.) A couple advantages of using the refactored code is that it is easier to read and more concise.  Updaing this code would be easier as well and helps the program run faster.  One disadvantage would be that by shorting it up and skipping steps you could create new errors in the system.  Also, if you are not well versed it could be very time consuming trying to come up with a refactor.
 
-  b.)Pros and cons apply to refactoring the original scripts
+  b.)A big advantage of refactoring this specific code was the run time it took for the macro.  It was almost 10x faster!  I didn't notice a particular disadvantage for this set but imagine working from scratch it would take a lot of time.
 
 
 
